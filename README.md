@@ -17,9 +17,6 @@
 ### 🔭 About Me
 
 - 🎓 3rd year Computing student at **TU Dublin**
-- 🛠️ Currently building **[Fitsens](#)** — a full-stack fitness tracker with AI-powered natural language food logging
-- 🎯 Preparing for **6-month SWE placements (Jan 2027)** — targeting HubSpot, Stripe, Salesforce, Intercom, Tines, Flipdish, SIG and Amazon (Dublin)
-- 💬 Ask me about FastAPI, React, or Postgres schema design
 - 📍 Based in Dublin, Ireland
 
 ---
