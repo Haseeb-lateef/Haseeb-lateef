@@ -9,7 +9,9 @@
 </p>
 
 <p align="center">
-  Computer Science student at Technological University Dublin, building full-stack projects and preparing for a SWE placement (Jan 2027).
+  Computer Science student at Technological University Dublin, building cool stuff.
+  Currently looking for an internship
+ 
 </p>
 
 ---
