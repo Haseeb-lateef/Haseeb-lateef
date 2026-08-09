@@ -18,7 +18,6 @@
 
 - 🎓 3rd year Computing student at **TU Dublin**
 - 🛠️ Currently building **[Fitsens](#)** — a full-stack fitness tracker with AI-powered natural language food logging
-- 💬 Ask me about FastAPI, React, or Postgres schema design
 - 📍 Based in Dublin, Ireland
 
 ---
@@ -47,7 +46,7 @@
 ### 🖥️ Developer Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vercel,render,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=github,vercel,vscode,postman,linux" />
 </p>
 
 ---
@@ -83,8 +82,4 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Haseeb-lateef&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
