@@ -54,7 +54,7 @@
 
 | Project | Description |
 |---|---|
-| **[Fitsens](#)** | Full-stack fitness tracker — FastAPI + React + Postgres, with AI-powered natural language food logging, workout tracking, and progress stats |
+| **[Fitsens](https://github.com/Haseeb-lateef/fitsens)** | Full-stack fitness tracker — FastAPI + React + Postgres, with AI-powered natural language food logging, workout tracking, and progress stats |
 | **[Omnifood-project](https://github.com/Haseeb-lateef/Omnifood-project)** | Responsive food-delivery landing page |
 | **[Pokemon-battle-simulator](https://github.com/Haseeb-lateef/Pokemon-battle-simulator)** | Turn-based battle simulator built in C for embedded systems (PlatformIO) |
 | **[Snake-game](https://github.com/Haseeb-lateef/Snake-game)** | Classic Snake, built in Python |
