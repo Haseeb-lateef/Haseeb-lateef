@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  Computer Science student at Technological University Dublin, building cool stuff.
-  Currently looking for an internship
- 
+  Computer Science student at Technological University Dublin, building cool project <br> currently looking for for a SWE placement (Jan 2027).
 </p>
 
 ---
@@ -20,6 +18,8 @@
 
 - 🎓 3rd year Computing student at **TU Dublin**
 - 🛠️ Currently building **[Fitsens](#)** — a full-stack fitness tracker with AI-powered natural language food logging
+- 🎯 Preparing for **6-month SWE placements (Jan 2027)** — targeting HubSpot, Stripe, Salesforce, Intercom, Tines, Flipdish, SIG and Amazon (Dublin)
+- 💬 Ask me about FastAPI, React, or Postgres schema design
 - 📍 Based in Dublin, Ireland
 
 ---
@@ -68,20 +68,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haseeb-lateef&show_icons=true&theme=dark&hide_border=true" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb-lateef&theme=dark&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb-lateef&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haseeb-lateef&theme=react-dark&hide_border=true&area=true" width="100%"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Haseeb-lateef&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
 </p>
